@@ -6,3 +6,11 @@
 *.iml
 out
 gen
+
+*.css.map
+*.scss
+
+.vscode
+node_modules
+
+./dist
